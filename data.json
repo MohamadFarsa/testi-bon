@@ -1,0 +1,48 @@
+{
+  "name": "Mohammad Amin Farsa",
+  "job": "Computer Engineer / Network Admin",
+  "bio": "",
+  "tags": [
+    "Networking",
+    "Engineering",
+    "Open to work"
+  ],
+  "phones": [
+    {
+      "label": "موبایل",
+      "value": "+989053075028"
+    }
+  ],
+  "emails": [
+    {
+      "label": "کاری",
+      "value": "mhmdamyfrsa2005@gmail.com"
+    }
+  ],
+  "websites": [],
+  "social": {
+    "telegram": "Computer_MF_2005",
+    "instagram": "amin._.farsa",
+    "github": "mohamadfarsa",
+    "linkedin": ""
+  },
+  "location": {
+    "city": "Tehran, Iran",
+    "address": "Shahrak Valiasr",
+    "mapLink": ""
+  },
+  "music": {
+    "trackName": "",
+    "trackArtist": "",
+    "fileBase64": ""
+  },
+  "photoBase64": "",
+  "toggles": {
+    "music": true,
+    "vcard": true,
+    "location": true,
+    "email": true,
+    "website": true,
+    "bio": false
+  }
+}
